@@ -1,0 +1,7 @@
+C:\Users\Adam White\Documents\deliverable-one\deliverable-one\obj\Debug\deliverable-one.csprojAssemblyReference.cache
+C:\Users\Adam White\Documents\deliverable-one\deliverable-one\obj\Debug\deliverable-one.csproj.CoreCompileInputs.cache
+C:\Users\Adam White\Documents\deliverable-one\deliverable-one\bin\Debug\deliverable-one.exe.config
+C:\Users\Adam White\Documents\deliverable-one\deliverable-one\bin\Debug\deliverable-one.exe
+C:\Users\Adam White\Documents\deliverable-one\deliverable-one\bin\Debug\deliverable-one.pdb
+C:\Users\Adam White\Documents\deliverable-one\deliverable-one\obj\Debug\deliverable-one.exe
+C:\Users\Adam White\Documents\deliverable-one\deliverable-one\obj\Debug\deliverable-one.pdb
